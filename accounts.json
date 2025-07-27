@@ -1,0 +1,38 @@
+[
+  {
+    "username": "USER :- instauser1",
+    "password": "PASS :- pass1",
+    "used": false,
+    "type": "10+"
+  },
+  {
+    "username": "USER :- instauser2",
+    "password": "PASS :- pass2",
+    "used": false,
+    "type": "10+"
+  },
+  {
+    "username": "instauser3",
+    "password": "pass3",
+    "used": false,
+    "type": "15+"
+  },
+  {
+    "username": "instauser4",
+    "password": "pass4",
+    "used": false,
+    "type": "15+"
+  },
+  {
+    "username": "instauser5",
+    "password": "pass5",
+    "used": false,
+    "type": "30+"
+  },
+  {
+    "username": "instauser6",
+    "password": "pass6",
+    "used": false,
+    "type": "30+"
+  }
+]
